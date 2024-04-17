@@ -24,9 +24,10 @@
 - Others: JDBC, Hibernate, POSTMAN API, Jenkins, GCP, Netlify
 
 ## Projects
-- [Todo Management Application](link-to-github): Developed a robust to-do management system utilizing React.js and Spring Boot, aimed at enhancing task organization and productivity. Implemented CRUD operations seamlessly, optimizing performance for improved user experience.
-- [Ticket Tracker Spring Boot Application](link-to-github): Developed a full-featured ticket tracking application using Spring Boot. Implemented CRUD Operations and optimized it to improve performance.
-- [Pharmacy Website Dashboard](link-to-github): Developed a Pharmacy Website Dashboard with a contact form for patient details. Showcased products on the website and included an add-to-cart button using HTML, CSS, JavaScript.
+- [Todo Management Application](https://github.com/Sharique46/ToDo_App): Developed a robust to-do management system utilizing React.js and Spring Boot, aimed at enhancing task organization and productivity. Implemented CRUD operations seamlessly, optimizing performance for improved user experience.
+- [Ticket Tracker Spring Boot Application](https://github.com/Sharique46/Ticket_Tracker_Spring_Boot_Application): Developed a full-featured ticket tracking application using Spring Boot. Implemented CRUD Operations and optimized it to improve performance.
+- [Pharmacy Website Dashboard](https://github.com/Sharique46/Pharmacy_HTML_CSS): Developed a Pharmacy Website Dashboard with a contact form for patient details. Showcased products on the website and included an add-to-cart button using HTML, CSS, JavaScript.
+- [AI Text Summarizer](https://replit.com/@ShariqueAhmed/AI-Text-Summarizer-App): Built with Node.js and Hugging Face API, this project generates summaries for text inputs.
 
 ## Certifications
 - Software Engineering Virtual Experience Program
@@ -46,13 +47,6 @@
 
 ## Connect with Me
 Feel free to connect with me and explore my projects!
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sharique46)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/real_sharique)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Sharique46)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharique46&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/Sharique46)  
 
 <!--
 **Sharique46/Sharique46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
